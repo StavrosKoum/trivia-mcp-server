@@ -1,0 +1,1 @@
+"""Trivia MCP server package."""
